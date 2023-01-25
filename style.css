@@ -12,15 +12,15 @@
  * Base structure
  */
 
-body {
-}
+/* body {
+} */
 
 /*
  * Header
  */
 
 .banner-wrap {
-  background-image: url(./assets/banner.jpg);
+  background-image: url(./assets/IMG-20221126-WA0004.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
